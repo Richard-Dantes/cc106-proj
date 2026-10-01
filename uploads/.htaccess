@@ -1,2 +1,0 @@
-# Prevent direct web access to uploaded documents
-Deny from all
